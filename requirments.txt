@@ -1,0 +1,8 @@
+langchain-nvidia-ai-endpoints
+jupyterlab
+langchain_core
+matplotlib
+numpy
+pandas
+faiss-cpu == 1.7.2
+openai
